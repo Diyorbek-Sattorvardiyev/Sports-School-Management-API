@@ -8,7 +8,7 @@ Ushbu loyiha Flask va SQLite asosida ishlab chiqilgan sport maktabini boshqarish
 
 Har bir foydalanuvchi tizimga `login` endpoint orqali kiradi va JWT token oladi. Barcha so‘rovlar quyidagi sarlavha bilan yuborilishi lozim:
 
--Authorization: Bearer <token>
+- `Authorization: Bearer <token>`
 
 ---
 

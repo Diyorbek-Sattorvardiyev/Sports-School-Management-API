@@ -76,7 +76,7 @@ Har bir foydalanuvchi tizimga `login` endpoint orqali kiradi va JWT token oladi.
 
 ---
 
-## ⚙ Ishga tushirish
+##  Ishga tushirish
 
 ### 1. Talablar
 - Python 3.7+
